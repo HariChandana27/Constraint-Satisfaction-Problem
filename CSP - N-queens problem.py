@@ -93,3 +93,5 @@ if __name__ == '__main__':
     if (possible==False):
         print('No solution exists for',N)
     print_board()
+
+    
